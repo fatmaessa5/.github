@@ -43,6 +43,8 @@
             <artifactId>allure-testng</artifactId>
             <version>2.29.1</version>
         </dependency>
+
+
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
@@ -50,4 +52,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+
 </project>
